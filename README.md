@@ -43,7 +43,10 @@
 ---
 
 ### Notable Projects:
-- [rss.chat](https://rss.chat) - All in one solution to provide RSS feed updates via Discord
+- [rss.chat](https://rss.chat) - All in one solution to provide RSS feed updates via Discord 📢
+- [discord.sh](https://github.com/ChaoticWeg/discord.sh) - Write-only command-line Discord webhook integration written in 100% Bash script 😎
+- [disphord](https://github.com/fieu/disphord) - PHP port of discord.sh [ChaoticWeg/discord.sh](https://github.com/ChaoticWeg/discord.sh) that supports fields ✨
+- [phust](https://github.com/fieu/phust) - Send RCON commands to your Rust game server via the command-line ⛏
 
 ---
 <img align="left" alt="fieu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fieu&show_icons=true&hide_border=true" />
