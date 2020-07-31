@@ -45,11 +45,7 @@
 ### Notable Projects:
 - [rss.chat](https://rss.chat) - All in one solution to provide RSS feed updates via Discord
 
-<br />
-<br />
-
 ---
-
 <img align="left" alt="fieu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fieu&show_icons=true&hide_border=true" />
 
 [website]: https://fieu.cc
