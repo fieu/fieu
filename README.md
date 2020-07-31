@@ -39,11 +39,8 @@
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
 
 <br />
-<br />
 
 ---
-
-### 📺 Latest YouTube Videos
 
 ### Notable Projects:
 - [rss.chat](https://rss.chat) - All in one solution to provide RSS feed updates via Discord
