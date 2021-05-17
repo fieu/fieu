@@ -3,7 +3,7 @@
 ## I'm a student, developer, and systems administrator!
 - 🔭 I’m currently working on a public ANSI-supported logging pastebin like API service!
 - 🎓 I'm currently undergoing my university studies at [Epitech](https://epitech.eu)
-- 🌱 I’m currently learning Golang and C
+- 🌱 I’m currently learning C and C++
 - 🎯 I'm looking for my next side project
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to skateboard!
