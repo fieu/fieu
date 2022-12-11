@@ -6,15 +6,6 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to skateboard!
 
-### Connect with me:
-
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/open-iconic@1.1.1/svg/globe.svg" />][website]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
 ### Languages and Tools:
 
 [<img align="left" alt="Go" width="32px" src="https://i.imgur.com/7KNpEdM.png" />][website]
