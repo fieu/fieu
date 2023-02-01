@@ -3,7 +3,7 @@
 ## I'm a web developer by day (PHP & Laravel), and a terrible systems administrator by night 😅
 - 🔭 I’m currently working on my own CI service over at [repo.ci](https://repo.ci)
 - 🌱 I'm trying to expand my knowledge of Go
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to skateboard!
 
 ### Languages and Tools:
@@ -33,7 +33,7 @@
 
 ### Notable Projects:
 - [rss.chat](https://rss.chat) - All in one solution to provide RSS feed updates via Discord 📢
-- [discord.sh](https://github.com/ChaoticWeg/discord.sh) - Write-only command-line Discord webhook integration written in 100% Bash script 😎
+- [discord.sh](https://github.com/fieu/discord.sh) - Write-only command-line Discord webhook integration written in 100% Bash script 😎
 - [disphord](https://github.com/fieu/disphord) - PHP port of discord.sh [ChaoticWeg/discord.sh](https://github.com/ChaoticWeg/discord.sh) that supports fields ✨
 - [phust](https://github.com/fieu/phust) - Send RCON commands to your Rust game server via the command-line ⛏
 
