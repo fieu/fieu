@@ -39,6 +39,11 @@
 ---
 <img align="left" alt="fieu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fieu&show_icons=true&hide_border=true" />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=fieu&theme=dark&show_icons=true&hide_border=true" alt="fieu's Github Stats">
+  <img alt="fieu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fieu&theme=default&show_icons=true&hide_border=true">
+</picture>
+
 [website]: https://sheldon.is
 [linkedin]: https://www.linkedin.com/in/sheldon-rupp-344266199/
 [instagram]: https://www.instagram.com/sheldonrupp/
