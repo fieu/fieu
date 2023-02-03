@@ -37,8 +37,6 @@
 - [phust](https://github.com/fieu/phust) - Send RCON commands to your Rust game server via the command-line ⛏
 
 ---
-<img align="left" alt="fieu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fieu&show_icons=true&hide_border=true" />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=fieu&theme=github_dark&show_icons=true&hide_border=true" alt="fieu's Github Stats">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=fieu&theme=default&show_icons=true&hide_border=true"  alt="fieu's Github Stats">
