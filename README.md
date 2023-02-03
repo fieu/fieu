@@ -33,7 +33,7 @@
 
 ### Notable Projects:
 - [discord.sh](https://github.com/fieu/discord.sh) - Write-only command-line Discord webhook integration written in 100% Bash script 😎
-- [disphord](https://github.com/fieu/disphord) - PHP port of discord.sh [fieu/discord.sh](https://github.com/fieu/discord.sh) that supports fields ✨
+- [disphord](https://github.com/fieu/disphord) - PHP port of [fieu/discord.sh](https://github.com/fieu/discord.sh) that supports fields ✨
 - [phust](https://github.com/fieu/phust) - Send RCON commands to your Rust game server via the command-line ⛏
 
 ---
