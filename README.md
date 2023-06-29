@@ -38,4 +38,4 @@
 [website]: https://sheldon.is
 [linkedin]: https://www.linkedin.com/in/sheldon-rupp-344266199/
 [instagram]: https://www.instagram.com/sheldonrupp/
-[twitter]: https://twitter.com/0xF13U
+[twitter]: https://twitter.com/fieu_
