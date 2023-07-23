@@ -35,6 +35,8 @@
   <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://github-readme-stats.vercel.app/api?username=fieu&theme=default&show_icons=true&hide_border=true">
 </picture>
 
+<a rel="me" href="https://mastodon.social/@fieu" style="display:none"></a>
+
 [website]: https://sheldon.is
 [linkedin]: https://www.linkedin.com/in/sheldon-rupp-344266199/
 [instagram]: https://www.instagram.com/sheldonrupp/
