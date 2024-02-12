@@ -1,7 +1,6 @@
 ### Hi there, I'm Sheldon - aka [fieu][website] 👋
 
 ## I'm a web developer (PHP & Laravel)
-- 🔭 I’m currently working on my own CI service over at [repo.ci](https://repo.ci)
 - 🌱 I'm trying to expand my knowledge of Go
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to skateboard!
